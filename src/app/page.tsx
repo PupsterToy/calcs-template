@@ -176,7 +176,19 @@ export default function Home() {
       />
       <div className="mx-auto w-full max-w-6xl flex-1 px-4 pt-8 pb-12 sm:px-6">
         <header className="mb-6">
-          <h1 className="text-2xl font-semibold tracking-wide text-[#d3bc8e]">
+          <div className="flex items-center gap-3">
+            <span
+              title="Проект в активной разработке: интерфейс и данные могут меняться"
+              className="inline-flex items-center gap-2 rounded-full border border-[#8a6d3b] bg-[#2a2113] px-3 py-1 text-[11px] font-semibold tracking-widest text-[#e5c07b] uppercase"
+            >
+              <span className="relative flex h-2 w-2">
+                <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-[#e5c07b] opacity-60" />
+                <span className="relative inline-flex h-2 w-2 rounded-full bg-[#e5c07b]" />
+              </span>
+              WIP — Alpha
+            </span>
+          </div>
+          <h1 className="mt-3 text-2xl font-semibold tracking-wide text-[#d3bc8e]">
             Genshin Impact — Showcase команд
           </h1>
           <p className="mt-2 text-[13.5px] text-[#9aa5b8]">
@@ -264,6 +276,18 @@ export default function Home() {
       <footer className="mt-auto border-t border-[#2f3d59] bg-[#101724] py-4 text-center text-[11.5px] text-[#9aa5b8]">
         Данные: формат showcase-simple/1 · парсинг в браузере · страница совместима со
         статическим хостингом (GitHub Pages)
+        {process.env.NODE_ENV === "development" && (
+          <>
+            <br />
+            <a
+              href="/showcase-site-source.zip"
+              download
+              className="mt-1 inline-block rounded-md border border-[#2f3d59] bg-[#1d2739] px-3 py-1.5 text-[12px] text-[#d3bc8e] hover:border-[#d3bc8e]"
+            >
+              ⬇ Скачать исходники сайта (showcase-site-source.zip)
+            </a>
+          </>
+        )}
       </footer>
     </div>
   );

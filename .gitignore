@@ -69,3 +69,6 @@ __pycache__/
 /examples/
 Caddyfile
 .env
+
+# архив исходников для передачи пользователю через превью — не публикуется на GitHub
+/public/*.zip
