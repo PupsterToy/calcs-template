@@ -1,0 +1,196 @@
+{
+  "row_4": {
+    "B4": {
+      "formula": "AF(='Sand Yae Ode Alyo'!$AA$256:$AM$262)",
+      "value": null
+    },
+    "J4": {
+      "formula": null,
+      "value": "Team"
+    },
+    "L4": {
+      "formula": null,
+      "value": "Damage"
+    },
+    "M4": {
+      "formula": null,
+      "value": "Dist"
+    },
+    "N4": {
+      "formula": null,
+      "value": "Field"
+    },
+    "P4": {
+      "formula": null,
+      "value": "Extra Information"
+    }
+  },
+  "row_5": {
+    "J5": {
+      "formula": null,
+      "value": "C0 Sandrone"
+    },
+    "L5": {
+      "formula": null,
+      "value": 1959081.7335212512
+    },
+    "M5": {
+      "formula": null,
+      "value": 0.5108812641663297
+    },
+    "N5": {
+      "formula": null,
+      "value": 14.5
+    },
+    "P5": {
+      "formula": null,
+      "value": "(3 gold)\n\nALYOSHA before C6 is meh\n\nAlyosha C2 = 162k"
+    }
+  },
+  "row_6": {
+    "J6": {
+      "formula": null,
+      "value": "C1 Yae Miko"
+    },
+    "L6": {
+      "formula": null,
+      "value": 1136159.109374212
+    },
+    "M6": {
+      "formula": null,
+      "value": 0.2962828922139467
+    },
+    "N6": {
+      "formula": null,
+      "value": 2.0
+    }
+  },
+  "row_7": {
+    "J7": {
+      "formula": null,
+      "value": "C0 Odette"
+    },
+    "L7": {
+      "formula": null,
+      "value": 577831.3307837445
+    },
+    "M7": {
+      "formula": null,
+      "value": 0.15068447410568936
+    },
+    "N7": {
+      "formula": null,
+      "value": 2.5
+    }
+  },
+  "row_8": {
+    "B8": {
+      "formula": null,
+      "value": "Melusine"
+    },
+    "D8": {
+      "formula": null,
+      "value": "Craft Catalyst"
+    },
+    "F8": {
+      "formula": null,
+      "value": "Finale"
+    },
+    "H8": {
+      "formula": null,
+      "value": "Fav Lance"
+    },
+    "J8": {
+      "formula": null,
+      "value": "C6 Alyosha"
+    },
+    "L8": {
+      "formula": null,
+      "value": 161638.2980742153
+    },
+    "M8": {
+      "formula": null,
+      "value": 0.042151369514034295
+    },
+    "N8": {
+      "formula": null,
+      "value": 2.0
+    }
+  },
+  "row_9": {
+    "B9": {
+      "formula": null,
+      "value": "Disenchant"
+    },
+    "D9": {
+      "formula": null,
+      "value": "Disenchant"
+    },
+    "F9": {
+      "formula": null,
+      "value": "Tenacity"
+    },
+    "H9": {
+      "formula": null,
+      "value": "7.0 Supp "
+    },
+    "J9": {
+      "formula": null,
+      "value": "Total DPR"
+    },
+    "L9": {
+      "formula": null,
+      "value": 3834710.4717534226
+    },
+    "M9": {
+      "formula": null,
+      "value": "2026-09-17 00:00:00"
+    }
+  },
+  "row_10": {
+    "B10": {
+      "formula": null,
+      "value": "129% ER"
+    },
+    "D10": {
+      "formula": null,
+      "value": "100% ER"
+    },
+    "F10": {
+      "formula": null,
+      "value": "100% ER"
+    },
+    "H10": {
+      "formula": null,
+      "value": "182% ER"
+    },
+    "J10": {
+      "formula": null,
+      "value": 21.0
+    },
+    "L10": {
+      "formula": null,
+      "value": 182605.26055968678
+    },
+    "M10": {
+      "formula": null,
+      "value": "Timmie's Bird"
+    }
+  },
+  "row_11": {
+    "B11": {
+      "formula": null,
+      "value": "Rot"
+    },
+    "C11": {
+      "formula": null,
+      "value": "Ode EE, Yae EEE, Alyo QE, Sand CECE (Q) CE"
+    }
+  },
+  "row_12": {
+    "B12": {
+      "formula": null,
+      "value": "Sheet"
+    }
+  }
+}
